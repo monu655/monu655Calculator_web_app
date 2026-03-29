@@ -13,4 +13,5 @@ A simple calculator built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[Click here] https://monu655.github.io/Calculator_web_app/
+[Click here]  https://monu655.github.io/monu655Calculator_web_app/
+
